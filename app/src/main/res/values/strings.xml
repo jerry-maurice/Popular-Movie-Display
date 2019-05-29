@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PopularMovieApp</string>
+    <string name="itemPopular">Popular Movie</string>
+    <string name="itemRated">Top Rated Movie</string>
+    <string name="release">Release Date: </string>
+    <string name="original">Original Title: </string>
+    <string name="voteCount">Vote Count:m</string>
+    <string name="voteAverage">Vote Average: </string>
+    <string name="popularity">Popularity: </string>
+</resources>
